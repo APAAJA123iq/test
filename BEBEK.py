@@ -11,6 +11,7 @@
 # import cv2
 # import torch
 # from ultralytics import YOLO
+# aciihgug
 
 # # Load model YOLOv11
 # # Ganti dengan path model Anda
